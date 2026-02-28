@@ -200,6 +200,10 @@ a {
   margin-left: 1.5rem;
   margin-top: 1.5rem;
 }
+
+.cards p:hover{
+  text-decoration: underline;
+}
 .cards img{
   margin-top: 8px;
 }
